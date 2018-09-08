@@ -1,0 +1,2 @@
+﻿problem url
+	https://www.hackerrank.com/challenges/python-lists/problem
